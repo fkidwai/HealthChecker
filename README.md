@@ -23,6 +23,6 @@ HealthChecker is a command-line tool written in Go that checks whether a website
 
 ### Run program
 
-    To run the program: 
-    ```bash
+To run the program: 
+
     go run . --domain example.com
